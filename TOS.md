@@ -33,7 +33,7 @@ StarWarsDex allows you to catch, collect, and trade virtual cards, referred to a
 - StarWarsDex collects minimal user data necessary for its functionality. We do not share this data with third parties.
 - Do not share personal information, including passwords, addresses, or financial details, through the bot.
 
-A more detailed privacy policy that details what data is collected is available at [this link](https://gist.github.com/laggron42/1eaa122013120cdfcc6d27f9485fe0bf).
+A more detailed privacy policy that details what data is collected is available at [this link](https://github.com/StarWarsDex/TOS/blob/main/PP.md).
 
 ### **6. Moderation:**
 - The bot administrators and moderators have the right to enforce these rules and take appropriate actions against rule violators. These actions may include warnings, temporary bans, permanent bans, and/or blacklisted from using the bot.
